@@ -1,0 +1,44 @@
+.home {
+    background-color: #f6f9fd;
+}
+
+.home .viewpg{
+    background-color:white;
+    min-height:800px;
+}
+
+.home .ttlTx{
+    padding-top:10px;
+    padding-left:40px;
+    font-size:40px;
+}
+
+.home .desTx{
+    padding-top:10px;
+    padding-left:50px;
+    font-size:20px;
+    white-space: pre-wrap;
+}
+
+.home .imgTx{
+    border:1px solid black;
+    margin-top:10px;
+    margin-left:auto;
+    display:block;
+    margin-right:auto
+}
+
+.home .graphDt{
+    margin-top:10px;
+    margin-left:50px;
+}
+
+.home .imgBc{
+    margin-left:350px;
+}
+
+.home .pdf{
+    height:800px;
+    width:800px;
+}
+

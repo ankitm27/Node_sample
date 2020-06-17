@@ -1,0 +1,64 @@
+.home {
+    /* background-color: #f6f9fd; */
+}
+
+.home .pageBg { 
+    background-color:#f6f9fd;
+}
+
+.home .check{
+    border:2px solid black;
+}
+
+.home .pageBg .filename{
+    padding-top:10px;
+    font-size:50px;
+}
+
+.home .pageBg .chaptername{
+    padding-top:10px;
+    font-size:30px;
+}
+
+.home .pageBg .filename .addCpBtn{
+    padding-top:10px;
+    padding-left:660px;
+}
+
+.addStBtn{
+    padding-top:10px;
+    margin-left:20px;
+    padding-top:20px; 
+}
+
+.home .pageBg .datapg{
+    background-color:white;
+    /* min-height:1000px; */
+}
+
+.home .pageBg .addCpBtn{
+    padding-top:10px;
+}
+
+.home .btnsc .addStBtn{
+    padding-top:10px;
+    padding-left:20px;
+}
+
+.home .btnsc{
+    padding-top:10px;
+}
+
+.addDtBtn{
+    padding-top:10px;
+    padding-left:20px;
+}
+
+.modal-size{
+    width:1440px !important;
+    height:100vh;
+}
+
+
+
+

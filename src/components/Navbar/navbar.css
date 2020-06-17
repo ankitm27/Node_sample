@@ -1,0 +1,185 @@
+.mbtopbar {
+    margin-top: 30px;
+}
+
+.fa-circle {
+    color: #96fced;
+    margin-right: 5px;
+}
+
+.navbar-brand {
+    font-size: 20px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ffffff !important;
+    z-index: 1px;
+    font-family:Rubik
+}
+
+
+.input-group-text {
+    border: none !important;
+}
+
+.navbar-brand span {
+    opacity: 0.5;
+    font-size: 20px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ffffff;
+    font-family:Rubik
+}
+
+.navbar-brand:hover {
+    color: #ffffff
+}
+
+
+.navbar-light .navbar-nav .nav-link {
+    opacity: 0.9;
+    font-size: 18px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 0.83;
+    letter-spacing: 0.3px;
+    text-align: right;
+    color: #ffffff;
+    margin-right: 10px;
+}
+
+.modal-size{
+    width: 1440px;
+    height: 730px;
+}
+
+.modal-size .heading-details {
+    width: 88px;
+    height: 22px;
+    font-family: Avenir;
+    font-size: 18px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.4px;
+    color: #2b7ed1;
+}
+
+.modal-size .shape1 {
+    width: 20.5px;
+    height: 20.5px;
+    object-fit: contain;
+    transform: rotate(-12deg);
+}
+
+.box-height {
+    height:60px;
+    border-bottom:solid 2px #979797;
+    padding-right:0px
+}
+
+.image{
+    height:120px;
+    border-bottom:solid 2px #979797;
+    padding-right:0px;
+}
+
+.image .right-border {
+    border-right:solid 2px #979797;
+    padding-top:10px;
+}
+
+.image .box-height{
+    height:60px;
+    border-bottom: solid 2px #979797;
+    padding-right: 0px
+}
+.image .box-height .profile-heading {
+    height: 20px;
+    font-family: Poppins;
+    font-size: 25px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #303030;
+    padding-top:10px; 
+    padding-left:25px
+}
+
+.image .box-height .data {
+    height: 20px;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #686868;
+    padding-top: 10px
+}
+
+.profile-image {
+    width: 110px;
+    height: 110px;
+    object-fit: contain;
+}
+
+.modal-background{
+    background-color: white !important
+}
+
+.box-height .profile-heading {
+    height: 20px;
+    font-family: Poppins;
+    font-size: 25px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #303030;
+    padding-top: 10px;
+    padding-left: 25px;
+}
+
+.box-height .data {
+    height: 22px;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #686868;
+    padding-top: 11px
+}
+
+.topbar {
+  margin-bottom: 20px;
+}
+
+.modal-body{
+    padding-left:10px;
+    padding-top: 0px;
+    padding-bottom:0px !important;
+    height:53vh !important;
+}
+
+.left-padding{
+    padding-left: 15px 
+}
+
+.left-padding-right {
+    padding-left:0px;
+}
